@@ -1,0 +1,2 @@
+https://github.com/couchbaselabs/Couchbase-Sync-Gateway-Postman-Collection
+https://www.couchbase.com/blog/postman-collections-for-sync-gateway-administration/
